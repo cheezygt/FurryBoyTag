@@ -1,0 +1,2 @@
+# FurryBoyTag
+fangame
